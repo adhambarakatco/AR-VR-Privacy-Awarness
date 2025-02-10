@@ -6,11 +6,8 @@ This project, developed during a hackathon, aims to enhance **privacy awareness*
 ---
 
 ## 📽️ Demo Videos
-- **Tool Mode**:
-https://github.com/user-attachments/assets/0905e3c3-a71e-4751-9b5f-e4a7d10ed0b8
-
-- **Educational Mode**:
-https://github.com/user-attachments/assets/c22e50a9-35e5-42e1-aff2-d06aae63fc93
+- **Tool Mode and Educational Mode**:
+https://github.com/user-attachments/assets/b2eee84e-990b-4b18-9dbe-76f6afeb25f0
 ---
 
 ## 🎯 Functionalities
